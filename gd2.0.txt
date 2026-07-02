@@ -14,7 +14,7 @@ Settings :
         -upgrades are hidden by default
         -achievements are hidden by default
         -show log
-	-custom stylesheet : https://pastebin.com/raw/655cTQGM
+	-custom stylesheet : https://raw.githubusercontent.com/aespinosapardo/IGMGameDeveloper/main/gd2.0.css
         -text color : #00FF00
         -fonts : Kavoon
         -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
