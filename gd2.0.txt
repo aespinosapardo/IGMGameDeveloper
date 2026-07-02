@@ -1,6 +1,6 @@
 Let's make a game!
-        -this game is so ded
-        -by i am ded
+        -GameDeveloper2.0
+        -by benbernard
         -created on ---
         -last updated on ---
         -version --
