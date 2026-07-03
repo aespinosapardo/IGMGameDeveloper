@@ -97,7 +97,7 @@ Resources :
 	-named This feature is not implemented yet.
  
         *codeWriterWritten
-        -named code written by code writers
+        -named code from code writers
         *objectWritten
         -named code from objects
         *enemyWritten
@@ -117,7 +117,7 @@ Resources :
         *studioWritten
         -named code from studios
 	*magicWritten
-	-named code written by magic code writers
+	-named code from magic code writers
 	*gameSeriesWritten
 	-named code from game series
 	*maganiumWritten
