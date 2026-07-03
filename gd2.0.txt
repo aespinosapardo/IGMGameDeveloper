@@ -1,5 +1,5 @@
 Let's make a game!
-        -GameDeveloper2.0
+        -GameDeveloper2.0 TEST
         -by benbernard
         -created on ---
         -last updated on ---
@@ -8,11 +8,6 @@ Let's make a game!
 Settings :
         -prices increase by 111%
         -selling gives back 60%
-        -resources are shown by default
-        -clickables are shown by default
-        -buildings are shown by default
-        -upgrades are shown by default
-        -achievements are hidden by default
         -show log
 	-custom stylesheet : https://raw.githubusercontent.com/aespinosapardo/IGMGameDeveloper/main/gd2.0.css
         -text color : #00FF00
