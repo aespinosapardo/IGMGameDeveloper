@@ -1,6 +1,6 @@
 Let's make a game!
-        -GameDeveloper2.0 TEST3
-        -by benbernard
+        -GameDeveloper3.0 
+        -by aespinosa
         -created on ---
         -last updated on ---
         -version --
@@ -60,9 +60,8 @@ Resources :
 	*lel101
 	-named ignore
 
-        *popularity
-        -named major game series overtaken
-	-displayed as Popularity Level: %a
+    *popularity
+    -named Game series overtaken
 
 	*positiveReview
 	-named positive review|positive reviews
