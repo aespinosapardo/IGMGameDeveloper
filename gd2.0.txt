@@ -60,9 +60,6 @@ Resources :
 	*lel101
 	-named ignore
 
-    *popularity
-    -named Game series overtaken
-
 	*positiveReview
 	-named positive review|positive reviews
 	-visible
@@ -86,8 +83,8 @@ Resources :
 	-displayed as %r
 	-visible
  
-        *manualWritten
-        -named code manually written
+    *manualWritten
+    -named code manually written
 
 	*fastMenResearch
 	-named fast men research
@@ -95,26 +92,26 @@ Resources :
 	*unimplemented
 	-named This feature is not implemented yet.
  
-        *codeWriterWritten
-        -named code from code writers
-        *objectWritten
-        -named code from objects
-        *enemyWritten
-        -named code from enemies
-        *playerWritten
-        -named code from players
-        *levelWritten
-        -named code from levels
-        *gameWritten
-        -named code from games
-        *fanbaseWritten
-        -named code from fanbases
-        *forumWritten
-        -named code from forums
-        *advertiseWritten
-        -named code from advertisements
-        *studioWritten
-        -named code from studios
+	*codeWriterWritten
+	-named code from code writers
+	*objectWritten
+	-named code from objects
+	*enemyWritten
+	-named code from enemies
+	*playerWritten
+	-named code from players
+	*levelWritten
+	-named code from levels
+	*gameWritten
+	-named code from games
+	*fanbaseWritten
+	-named code from fanbases
+	*forumWritten
+	-named code from forums
+	*advertiseWritten
+	-named code from advertisements
+	*studioWritten
+	-named code from studios
 	*magicWritten
 	-named code from magic code writers
 	*gameSeriesWritten
@@ -172,8 +169,15 @@ Resources :
 	-named godly lines of code
 
 	*stoneBuilding
--abstract
- 
+	-abstract
+
+	*menu4
+	-named ------------GAME SERIES-----------
+	-starts at 1
+	-visible
+
+	*popularity
+    -named Game series overtaken
  
 Clickables :
         *writeCode
