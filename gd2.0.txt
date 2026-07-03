@@ -160,6 +160,9 @@ Resources :
 	*manualResearch
 	-named research done manually
 
+	*manualTime
+	-named time sped up manually
+
 	*boxDamage
 	-named damage done to golden box
 
@@ -266,6 +269,11 @@ Clickables :
 	-gives 2 manualResearch
 	-named Speed up finality research
 	-picture : http://i.imgur.com/zAvei2K.png
+	*speedTime
+	-gives 2 time
+	-gives 2 manualTime
+	-named Speed up time
+    -picture : http://i.imgur.com/WjM2HmH.png
 	*convertGame1
 	-gives 100000 code, 100000 totalCode, 1 conversion for 1 game2
 	-named Convert 1 game into 100,000 code
@@ -3635,6 +3643,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 120%
 	-multiplies efficiency of speedResearch3 by 120%
 	-multiplies efficiency of speedResearch4 by 120%
+	-multiplies efficiency of speedTime by 120%
 	-multiplies efficiency of writeCode by 102%
 	-multiplies efficiency of codeWriter by 102%
 	-multiplies efficiency of object by 102%
@@ -4255,6 +4264,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 0.01% per buildings
 	-multiplies efficiency of speedResearch3 by 0.01% per buildings
 	-multiplies efficiency of speedResearch4 by 0.01% per buildings
+	-multiplies efficiency of speedTime by 0.01% per buildings
 	-costs 1e+29 code
 	-named Researching Engineers
 	-unlocks at 18 popularity
@@ -5932,6 +5942,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 200%
 	-multiplies efficiency of speedResearch3 by 200%
 	-multiplies efficiency of speedResearch4 by 200%
+	-multiplies efficiency of speedTime by 200%
 	-named Efficient Researching
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*manualResearch2
@@ -5942,6 +5953,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 150%
 	-multiplies efficiency of speedResearch3 by 150%
 	-multiplies efficiency of speedResearch4 by 150%
+	-multiplies efficiency of speedTime by 150%
 	-named Special Lessons
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*manualResearch3
@@ -5952,6 +5964,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 130%
 	-multiplies efficiency of speedResearch3 by 130%
 	-multiplies efficiency of speedResearch4 by 130%
+	-multiplies efficiency of speedTime by 130%
 	-named Wizard Lessons
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*manualResearch35
@@ -5962,6 +5975,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 130%
 	-multiplies efficiency of speedResearch3 by 130%
 	-multiplies efficiency of speedResearch4 by 130%
+	-multiplies efficiency of speedTime by 130%
 	-named Special Wizard Lessons
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*manualResearch4
@@ -5972,6 +5986,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 130%
 	-multiplies efficiency of speedResearch3 by 130%
 	-multiplies efficiency of speedResearch4 by 130%
+	-multiplies efficiency of speedTime by 130%
 	-named Ultra-magic Wizard Lessons
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*click1
@@ -8809,6 +8824,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 200%
 	-multiplies efficiency of speedResearch3 by 200%
 	-multiplies efficiency of speedResearch4 by 200%
+	-multiplies efficiency of speedTime by 200%
 	-unlocks at 75000 researchTime
 	-named Enhanced Research
 	-picture : http://i.imgur.com/GS3JNtZ.png
@@ -8890,6 +8906,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 2% per breakthrough
 	-multiplies efficiency of speedResearch3 by 2% per breakthrough
 	-multiplies efficiency of speedResearch4 by 2% per breakthrough
+	-multiplies efficiency of speedTime by 2% per breakthrough
 	-named Breakthroughs
 	-picture : http://i.imgur.com/GS3JNtZ.png
 
@@ -8905,6 +8922,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 110%
 	-multiplies efficiency of speedResearch3 by 110%
 	-multiplies efficiency of speedResearch4 by 110%
+	-multiplies efficiency of speedTime by 110%
 	-named First Research Ascend
 	-picture : http://i.imgur.com/5vOQOpP.png
 	*researchAscend2
@@ -8919,6 +8937,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 125%
 	-multiplies efficiency of speedResearch3 by 125%
 	-multiplies efficiency of speedResearch4 by 125%
+	-multiplies efficiency of speedTime by 125%
 	-named Second Research Ascend
 	-picture : http://i.imgur.com/5vOQOpP.png
 	*researchAscend3
@@ -8933,6 +8952,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 150%
 	-multiplies efficiency of speedResearch3 by 150%
 	-multiplies efficiency of speedResearch4 by 150%
+	-multiplies efficiency of speedTime by 150%
 	-named Third Research Ascend
 	-picture : http://i.imgur.com/5vOQOpP.png
 	*researchAscend4
@@ -8947,6 +8967,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 200%
 	-multiplies efficiency of speedResearch3 by 200%
 	-multiplies efficiency of speedResearch4 by 200%
+	-multiplies efficiency of speedTime by 200%
 	-named Fourth Research Ascend
 	-picture : http://i.imgur.com/5vOQOpP.png
 	*researchAscend5
@@ -8961,6 +8982,7 @@ Upgrades :
 	-multiplies efficiency of speedResearch2 by 300%
 	-multiplies efficiency of speedResearch3 by 300%
 	-multiplies efficiency of speedResearch4 by 300%
+	-multiplies efficiency of speedTime by 300%
 	-named Final Research Ascend
 	-picture : http://i.imgur.com/5vOQOpP.png
 
