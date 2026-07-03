@@ -1,6 +1,6 @@
 Let's make a game!
-        -GameDeveloper3.0 
-        -by aespinosa
+        -GameDeveloper3.0
+        -by ShiningFuture
         -created on ---
         -last updated on ---
         -version --
@@ -8,10 +8,10 @@ Let's make a game!
 Settings :
         -prices increase by 111%
         -selling gives back 60%
-        -resources are visible by default
-        -clickables are visible by default
-        -buildings are visible by default
-        -upgrades are visible by default
+        -resources are hidden by default
+        -clickables are hidden by default
+        -buildings are hidden by default
+        -upgrades are hidden by default
         -achievements are hidden by default
         -show log
 	-custom stylesheet : https://raw.githubusercontent.com/aespinosapardo/IGMGameDeveloper/main/gd2.0.css
@@ -60,6 +60,10 @@ Resources :
 	*lel101
 	-named ignore
 
+	*popularity
+	-named major game series overtaken
+	-displayed as Popularity Level: %a
+
 	*positiveReview
 	-named positive review|positive reviews
 	-visible
@@ -83,8 +87,8 @@ Resources :
 	-displayed as %r
 	-visible
  
-    *manualWritten
-    -named code manually written
+        *manualWritten
+        -named code manually written
 
 	*fastMenResearch
 	-named fast men research
@@ -92,32 +96,32 @@ Resources :
 	*unimplemented
 	-named This feature is not implemented yet.
  
-	*codeWriterWritten
-	-named code from code writers
-	*objectWritten
-	-named code from objects
-	*enemyWritten
-	-named code from enemies
-	*playerWritten
-	-named code from players
-	*levelWritten
-	-named code from levels
-	*gameWritten
-	-named code from games
-	*fanbaseWritten
-	-named code from fanbases
-	*forumWritten
-	-named code from forums
-	*advertiseWritten
-	-named code from advertisements
-	*studioWritten
-	-named code from studios
+        *codeWriterWritten
+        -named code from code writers
+        *objectWritten
+        -named code from objects
+        *enemyWritten
+        -named code from enemies
+        *playerWritten
+        -named code from players
+        *levelWritten
+        -named code from levels
+        *gameWritten
+        -named code from games
+        *fanbaseWritten
+        -named code from fanbases
+        *forumWritten
+        -named code from forums
+        *advertiseWritten
+        -named code from advertisements
+        *studioWritten
+        -named code from studios
 	*magicWritten
 	-named code from magic code writers
 	*gameSeriesWritten
 	-named code from game series
 	*maganiumWritten
-	-named code from ultramagic generators
+	-named code from ultra-magic generators
 	*popularYoutuberWritten
 	-named code from popular YouTubers
 	*finalityWritten
@@ -167,6 +171,10 @@ Resources :
 
 	*prestige
 	-named godly lines of code
+
+	*stoneBuilding
+-abstract
+ 
  
 Clickables :
         *writeCode
