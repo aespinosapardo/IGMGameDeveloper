@@ -10000,7 +10000,7 @@ Upgrades :
 	-multiplies efficiency of magicPointBuilding by 320%
 	-picture : http://i.imgur.com/9Dou0sL.png
 	*alternateUniverseReset41
-	-"Everything is twice efficient. <br><i>When we deactivated the barriers, there was another orb, resting on a pedestal.</i>
+	-"Everything is 3.4 times as efficient. <br><i>When we deactivated the barriers, there was another orb, resting on a pedestal.</i>
 	-costs 10000000000000000000000000000000000000 code
 	-costs 1000000000000000000000000000 game2
 	-costs 100000000000000000000000 positiveReview
