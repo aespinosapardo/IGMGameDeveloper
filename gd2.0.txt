@@ -8775,7 +8775,7 @@ Upgrades :
 	-"Unlocks magic code writers.<br><i>We finally have the technology to enhance code writers with magic.</i>
 	-costs 6161616 code
 	-unlocks magic
-	-unlocks at 1000 researchTime
+	-unlocks at 5000 researchTime
 	-named Magic Research
 	-picture : http://i.imgur.com/nhz8HjT.png
 	*researchUpgrade4
