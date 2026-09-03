@@ -8796,7 +8796,7 @@ Upgrades :
 	-"Unlocks the ability to speed up research. <br><i>Now you can help with research as well!</i>
 	-costs 6161616161616 code
 	-unlocks speedResearch
-	-unlocks at 25000 researchTime
+	-unlocks at 1000 researchTime
 	-named Research Speed-Up
 	-picture : http://i.imgur.com/GS3JNtZ.png
 	*researchUpgrade6
