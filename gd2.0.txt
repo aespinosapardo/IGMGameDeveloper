@@ -387,10 +387,6 @@ Clickables :
 	-converts maganiumWritten to nothing
 	-converts finalityWritten to nothing
 	-converts magicPoint to nothing
-	-converts research to nothing
-	-converts research2 to nothing
-	-converts research3 to nothing
-	-converts research4 to nothing
 	-converts breakthroughbuilding to nothing
 	-converts boxDamage to nothing
 	-multiplies researchTime 50%
@@ -402,10 +398,6 @@ Clickables :
 	-converts menu2 to nothing
 	-converts menu3 to nothing
 	-converts breakthrough to nothing
-	-locks researchUnlock
-	-locks researchUnlock2
-	-locks researchUnlock3
-	-locks researchUnlock4
 	-locks reset
 	-locks overtake2
 	-locks overtake3
@@ -1323,7 +1315,7 @@ Buildings :
 	-locks win
 	-unlocks win2
 	-classed win
-	-named WIN THE GAME (easy)
+	-named WIN THE GAME (easy) (200)
 	*win2
 	-"Win the game (hard). Requires every 300 upgrade unlocked.
 	-costs 1e+30 code
@@ -1346,7 +1338,7 @@ Buildings :
 	-locks win2
 	-unlocks win3
 	-classed win
-	-named WIN THE GAME (hard)
+	-named WIN THE GAME (hard) (300)
 	*win3
 	-"Win the game (very hard). Requires every 400 upgrade unlocked.
 	-costs 1e+33 code
@@ -1369,7 +1361,7 @@ Buildings :
 	-locks win3
 	-unlocks win4
 	-classed win
-	-named WIN THE GAME (very hard)
+	-named WIN THE GAME (very hard) (400)
 	*win4
 	-"Win the game (extreme). Requires 500 of every building.
 	-costs 1e+40 code
@@ -1392,7 +1384,7 @@ Buildings :
 	-locks win4
 	-unlocks win5
 	-classed win
-	-named WIN THE GAME (extreme)
+	-named WIN THE GAME (extreme) (500)
 	*win5
 	-"Win the game (super extreme). Requires 600 of every building.
 	-costs 2.25e+44 code
@@ -1415,7 +1407,7 @@ Buildings :
 	-locks win5
 	-unlocks win6
 	-classed win
-	-named WIN THE GAME (super extreme)
+	-named WIN THE GAME (super extreme) (600)
 	*win6
 	-"Win the game (uber extreme). Requires 700 of every building.
 	-costs 1e+49 code
@@ -1438,7 +1430,7 @@ Buildings :
 	-classed win
 	-locks win6
 	-unlocks win7
-	-named WIN THE GAME (uber extreme)
+	-named WIN THE GAME (uber extreme) (700)
 	*win7
 	-"Win the game (insane). Requires 800 of every building.
 	-costs 1e+53 code
@@ -1461,7 +1453,7 @@ Buildings :
 	-locks win7
 	-unlocks win8
 	-classed win
-	-named WIN THE GAME (insane)
+	-named WIN THE GAME (insane) (800)
 	*win8
 	-"Win the game (legendary). Requires 900 of every building.
 	-costs 1e+57 code
@@ -1484,7 +1476,7 @@ Buildings :
 	-locks win8
 	-unlocks win9
 	-classed win
-	-named WIN THE GAME (legendary)
+	-named WIN THE GAME (legendary) (900)
 	*win9
 	-"Win the game (impossible?) Requires 1000 of every building.
 	-costs 1e+61 code
@@ -1507,7 +1499,7 @@ Buildings :
 	-locks win9
 	-unlocks win10
 	-classed win
-	-named WIN THE GAME (impossible?)
+	-named WIN THE GAME (impossible?) (1000)
 	*win10
 	-"Win the game (IMPOSSIBLE!) Requires 1200 of every building.
 	-costs 1e+69 code
@@ -1529,7 +1521,7 @@ Buildings :
 	-requires 1200 finality
 	-locks win10
 	-classed objective
-	-named WIN THE GAME (impossible!)
+	-named WIN THE GAME (impossible!) (1200)
 	
 
 	*startGame
