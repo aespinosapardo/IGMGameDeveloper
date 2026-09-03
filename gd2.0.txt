@@ -3887,6 +3887,7 @@ Upgrades :
 	-multiplies efficiency of maganiumGenerator by 1% per stone3
 	-multiplies efficiency of finality by 1% per stone3
 	-multiplies efficiency of magicPointBuilding by 1% per stone3
+	-named Synergy Stones
 	-picture : http://i.imgur.com/c8FCuLQ.png
 	*stoneUnlock4
 	-"Unlock the Mystery Stone.<br><i> </i>
@@ -3912,6 +3913,7 @@ Upgrades :
 	-multiplies efficiency of maganiumGenerator by  0.25% per stoneBuilding
 	-multiplies efficiency of finality by  0.25% per stoneBuilding
 	-multiplies efficiency of magicPointBuilding by  0.25% per stoneBuilding
+	-named Mystery Stones
 	-picture : http://i.imgur.com/c8FCuLQ.png
 	*allTimeUpgrade1
 	-"Manual code writing is twice as efficient. <br><i>Some basic lessons on coding.</i>
