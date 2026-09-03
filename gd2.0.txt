@@ -3432,6 +3432,14 @@ Upgrades :
 	-named  
 	-unlocks noEffect
 	-picture : http://i.imgur.com/TkCSZup.png
+    -"Unlocks the time clickable.<br><i>I have the feeling that time has passed so slowly... Let's accelerate up!</i>
+	-costs 1000000000000000000000000000000000000000000000000000000 code
+	-costs 100000000000000000000000000000000000000000000 game2
+	-costs 10000000000000000000000000000000000000000 positiveReview
+	-unlocks speedTime
+	-unlocks at 30000 time
+	-named Time Speed Up
+	-picture : http://i.imgur.com/KDOfNlq.png
 	*researchUnlock
 	-"Unlocks the research lab. <br><i>Let's do some serious research, and discover new things!</i>
 	-costs 1 code
